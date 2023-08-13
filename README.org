@@ -2,9 +2,8 @@
 
 General-purpose, extensible value accumulator library for the Common Lisp language
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tlikonen/cl-general-accumulator.git   |
-| commit  | a68059c  |
-| systems | cl-general-accumulator |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/tlikonen/cl-general-accumulator.git |
+| commit  | a68059c                                                    |
+| systems | (general-accumulator)                                      |
+|---------+------------------------------------------------------------|
