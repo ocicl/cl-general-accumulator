@@ -5,5 +5,5 @@ General-purpose, extensible value accumulator library for the Common Lisp langua
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/tlikonen/cl-general-accumulator.git |
 | commit  | a68059c                                                    |
-| systems | (general-accumulator)                                      |
+| systems | general-accumulator                                        |
 |---------+------------------------------------------------------------|
