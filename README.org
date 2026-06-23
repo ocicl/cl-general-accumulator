@@ -7,4 +7,4 @@ General-purpose, extensible value accumulator library for the Common Lisp langua
 | commit  | f05c5d2                                                    |
 | systems | general-accumulator                                        |
 |---------+------------------------------------------------------------|
- 
+  
